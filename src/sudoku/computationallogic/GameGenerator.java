@@ -40,11 +40,9 @@ public class GameGenerator {
             SudokuUtilities.copySudokuArrayValues(solvableArray, toBeSolved);
 
             solvable = SudokuSolver.puzzleIsSolvable(toBeSolved);
-
-            return solvableArray;
         }
 
-        return new int[0][];
+        return solvableArray;
     }
 
     private static int[][] getSolvedGame() {
