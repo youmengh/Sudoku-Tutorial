@@ -85,7 +85,7 @@ public class GameGenerator {
                         interupt++;
                     } else {
                         allocTracker.add(new Coordinates(xCoordinate, yCoordinate));
-                        allocations++;
+                        allocation++;
                     }
                 }
             }
