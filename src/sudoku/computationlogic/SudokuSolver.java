@@ -1,4 +1,4 @@
-package sudoku.computationallogic;
+package sudoku.computationlogic;
 
 import sudoku.problemdomain.Coordinates;
 

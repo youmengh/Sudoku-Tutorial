@@ -1,6 +1,5 @@
-package sudoku.computationallogic;
+package sudoku.computationlogic;
 
-import org.w3c.dom.ls.LSOutput;
 import sudoku.problemdomain.Coordinates;
 import sudoku.problemdomain.SudokuGame;
 
